@@ -1,5 +1,5 @@
 # Desafio: Criando um hook de carrinho de compras
-Desafio 1 do 2º capítulo da trilha de React do Ignite da Rocketseat
+Desafio do 2º capítulo da trilha de React do Ignite da Rocketseat
 
 ### Objetivo
 Nesse desafio, você deverá criar um hook para gerenciar um carrinho de compras.
