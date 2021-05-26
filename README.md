@@ -1,4 +1,4 @@
-# IgniteReact-02-Challenge1
+# Desafio: Criando um hook de carrinho de compras
 Desafio 1 do 2º capítulo da trilha de React do Ignite da Rocketseat
 
 ### Objetivo
